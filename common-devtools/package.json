@@ -4,6 +4,9 @@
   "displayName": "Common Devtools",
   "description": "common devtools covering various developers' general need no matter domain and language",
   "version": "1.0.1",
+  "repository": {
+		"url": "https://github.com/Ziwei-Wei/vscode-extension-packs"
+	},
   "engines": {
     "vscode": "^1.69.0"
   },
