@@ -1,0 +1,31 @@
+{
+  "publisher": "ziwei-wei",
+  "name": "common-devtools",
+  "displayName": "Common Devtools",
+  "description": "common devtools covering various developers' general need no matter domain and language",
+  "version": "1.0.1",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#f0efe7",
+    "theme": "light"
+  },
+  "extensionPack": [
+    "DavidAnson.vscode-markdownlint",
+    "Tyriar.sort-lines",
+    "aaron-bond.better-comments",
+    "eamodio.gitlens",
+    "foxundermoon.shell-format",
+    "mintlify.connector",
+    "redhat.vscode-yaml",
+    "streetsidesoftware.code-spell-checker",
+    "tomoki1207.pdf",
+    "vscode-icons-team.vscode-icons",
+    "xaver.clang-format"
+  ]
+}
