@@ -3,7 +3,7 @@
   "name": "common-devtools",
   "displayName": "Common Devtools",
   "description": "common devtools covering various developers' general need no matter domain and language",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": {
 		"url": "https://github.com/Ziwei-Wei/vscode-extension-packs"
 	},

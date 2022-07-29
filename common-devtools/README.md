@@ -1,6 +1,6 @@
-# Git Extension Pack
+# Common Devtools Extension Pack
 
-Common devtools covering various developers' general need no matter domain and language
+Common devtools covering various developers' general need no matter domain and language. Lots of life improvement extensions are included.
 
 ## Extensions Included
 
