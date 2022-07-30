@@ -1,0 +1,23 @@
+{
+  "publisher": "ziwei-wei",
+  "name": "cpp-devtools-pack",
+  "displayName": "C/C++ Devtools Pack",
+  "description": "C/C++ extensions to make developing C/C++ as convenient as possible",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "repository": {
+		"url": "https://github.com/Ziwei-Wei/vscode-extension-packs"
+	},
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "jeff-hykin.better-cpp-syntax",
+    "ms-vscode.cmake-tools",
+    "ms-vscode.cpptools",
+    "ms-vscode.cpptools-themes"
+  ]
+}
