@@ -12,3 +12,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Initial release
+
+## [1.0.1]
+
+### Added
+
+- More life improvement extensions
+
+### Changed
+
+- Documents
