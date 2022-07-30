@@ -16,7 +16,7 @@ npm install -g vsce
 ## publish
 
 ```shell
-vsce login ziwei-wei
+vsce login your-vscode-marketplace-id
 vsce package
 vsce publish
 ```
