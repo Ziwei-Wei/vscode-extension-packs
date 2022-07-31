@@ -1,0 +1,24 @@
+{
+  "publisher": "ziwei-wei",
+  "name": "js-devtools-pack",
+  "displayName": "Javascript/Typescript Devtools Pack",
+  "description": "Extensions to make developing js/ts as convenient as possible.",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/Ziwei-Wei/vscode-extension-packs"
+  },
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "naumovs.color-highlight",
+    "Orta.vscode-jest",
+    "christian-kohler.npm-intellisense"
+  ]
+}
