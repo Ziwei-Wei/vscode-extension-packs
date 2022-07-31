@@ -2,8 +2,8 @@
   "publisher": "ziwei-wei",
   "name": "dev-enhancement-pack",
   "displayName": "Developer Enhancement Pack",
-  "description": "Provide enhancement and support for pdf, md, svg, xml, yaml, proto, env, log, shader files and extra life improvement with comments, indent and spell-check.",
-  "version": "1.0.1",
+  "description": "Provide enhancement and support for pdf, md, svg, xml, yaml, proto, env, log, toml, shader files and extra life improvement with comments, indent and spell-check.",
+  "version": "1.0.2",
   "icon": "icon.png",
   "repository": {
     "url": "https://github.com/Ziwei-Wei/vscode-extension-packs"
@@ -27,6 +27,7 @@
     "shd101wyy.markdown-preview-enhanced",
     "slevesque.shader",
     "streetsidesoftware.code-spell-checker",
+    "tamasfe.even-better-toml",
     "tomoki1207.pdf",
     "vscode-icons-team.vscode-icons",
     "zxh404.vscode-proto3"
