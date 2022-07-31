@@ -1,0 +1,24 @@
+{
+  "publisher": "ziwei-wei",
+  "name": "py-devtools-pack",
+  "displayName": "Python Devtools Pack",
+  "description": "Extensions to make developing Python as convenient as possible.",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/Ziwei-Wei/vscode-extension-packs"
+  },
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-python.python",
+    "KevinRose.vsc-python-indent",
+    "littlefoxteam.vscode-python-test-adapter",
+    "ms-pyright.pyright",
+    "donjayamanne.python-environment-manager"
+  ]
+}
