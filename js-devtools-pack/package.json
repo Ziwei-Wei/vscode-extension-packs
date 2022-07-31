@@ -3,7 +3,7 @@
   "name": "js-devtools-pack",
   "displayName": "Javascript/Typescript Devtools Pack",
   "description": "Extensions to make developing js/ts as convenient as possible.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "icon.png",
   "repository": {
     "url": "https://github.com/Ziwei-Wei/vscode-extension-packs"
@@ -15,10 +15,12 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "GraphQL.vscode-graphql",
+    "Orta.vscode-jest",
+    "christian-kohler.npm-intellisense",
     "christian-kohler.path-intellisense",
     "dbaeumer.vscode-eslint",
-    "naumovs.color-highlight",
-    "Orta.vscode-jest",
-    "christian-kohler.npm-intellisense"
+    "esbenp.prettier-vscode",
+    "naumovs.color-highlight"
   ]
 }
