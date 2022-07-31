@@ -1,13 +1,15 @@
 # vscode extension pack for my personal use
 
-## new extension pack
+free to grab my code and create your own vscode extension packs
+
+## if you want to create brand new extension pack
 
 ```shell
 npm install -g yo generator-code
 yo code
 ```
 
-## dev requirements
+## publish requirements
 
 ```shell
 npm install -g vsce
