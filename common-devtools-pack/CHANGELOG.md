@@ -19,6 +19,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - More life improvement extensions
 
-### Changed
+## [1.0.2]
 
-- Documents
+### Added
+
+- More useful tools
+
+### Removed
+
+- Non tool enhancements
