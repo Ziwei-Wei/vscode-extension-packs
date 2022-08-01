@@ -1,0 +1,21 @@
+{
+  "publisher": "ziwei-wei",
+  "name": "go-devtools-pack",
+  "displayName": "Go Devtools Pack",
+  "description": "Extensions to make developing Go as convenient as possible.",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/Ziwei-Wei/vscode-extension-packs"
+  },
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "golang.go",
+    "msyrus.go-doc"
+  ]
+}

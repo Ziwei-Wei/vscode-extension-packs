@@ -1,0 +1,30 @@
+{
+  "publisher": "ziwei-wei",
+  "name": "java-devtools-pack",
+  "displayName": "Java Devtools Pack",
+  "description": "Extensions to make developing Java as convenient as possible.",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/Ziwei-Wei/vscode-extension-packs"
+  },
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "GabrielBB.vscode-lombok",
+    "Pivotal.vscode-spring-boot",
+    "naco-siren.gradle-language",
+    "redhat.java",
+    "sohibe.java-generate-setters-getters",
+    "vscjava.vscode-gradle",
+    "vscjava.vscode-java-debug",
+    "vscjava.vscode-java-dependency",
+    "vscjava.vscode-maven",
+    "vscjava.vscode-spring-boot-dashboard",
+    "vscjava.vscode-spring-initializr"
+  ]
+}

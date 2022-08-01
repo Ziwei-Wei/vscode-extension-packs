@@ -1,0 +1,22 @@
+{
+  "publisher": "ziwei-wei",
+  "name": "csharp-devtools-pack",
+  "displayName": "C# Devtools Pack",
+  "description": "Extensions to make developing C# as convenient as possible.",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/Ziwei-Wei/vscode-extension-packs"
+  },
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "kreativ-software.csharpextensions",
+    "ms-dotnettools.csharp",
+    "tintoy.msbuild-project-tools"
+  ]
+}
