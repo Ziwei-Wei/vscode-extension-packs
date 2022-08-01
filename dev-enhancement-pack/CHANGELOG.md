@@ -24,3 +24,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - toml support
+
+## [1.0.3]
+
+### Removed
+
+- indent-rainbow
+
+## [1.0.4]
+
+### Added
+
+- resource-monitor
