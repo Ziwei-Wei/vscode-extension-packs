@@ -1,0 +1,22 @@
+{
+  "publisher": "ziwei-wei",
+  "name": "rust-devtools-pack",
+  "displayName": "Rust Devtools Pack",
+  "description": "Extensions to make developing Rust as convenient as possible.",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/Ziwei-Wei/vscode-extension-packs"
+  },
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "panicbit.cargo",
+    "rust-lang.rust-analyzer",
+    "serayuzgur.crates"
+  ]
+}
