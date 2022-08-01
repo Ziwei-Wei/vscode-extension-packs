@@ -3,7 +3,7 @@
   "name": "common-devtools-pack",
   "displayName": "Common Devtools Pack",
   "description": "common devtools covering various developers' general need for most domain and language",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "icon": "icon.png",
   "repository": {
 		"url": "https://github.com/Ziwei-Wei/vscode-extension-packs"
@@ -20,6 +20,7 @@
     "VisualStudioExptTeam.vscodeintellicode",
     "adam-bender.commit-message-editor",
     "alefragnani.Bookmarks",
+    "alefragnani.project-manager",
     "eamodio.gitlens",
     "formulahendry.code-runner",
     "foxundermoon.shell-format",
