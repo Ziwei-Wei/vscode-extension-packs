@@ -3,7 +3,7 @@
   "name": "devops-tools-pack",
   "displayName": "Devops Tools Pack",
   "description": "Extensions to make developing and operating services as convenient as possible.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "icon.png",
   "repository": {
     "url": "https://github.com/Ziwei-Wei/vscode-extension-packs"
@@ -17,7 +17,6 @@
   "extensionPack": [
     "42Crunch.vscode-openapi",
     "ms-azuretools.vscode-docker",
-    "ms-kubernetes-tools.vscode-kubernetes-tools",
-    "alefragnani.project-manager"
+    "ms-kubernetes-tools.vscode-kubernetes-tools"
   ]
 }
