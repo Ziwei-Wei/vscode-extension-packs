@@ -3,7 +3,7 @@
   "name": "dev-enhancement-pack",
   "displayName": "Developer Enhancement Pack",
   "description": "Provide enhancement and support for pdf, md, svg, xml, yaml, proto, env, log, toml, shader files and extra life improvement with comments, indent and spell-check.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "icon": "icon.png",
   "repository": {
     "url": "https://github.com/Ziwei-Wei/vscode-extension-packs"
@@ -21,7 +21,6 @@
     "jock.svg",
     "mikestead.dotenv",
     "nhoizey.gremlins",
-    "oderwat.indent-rainbow",
     "redhat.vscode-xml",
     "redhat.vscode-yaml",
     "shd101wyy.markdown-preview-enhanced",
