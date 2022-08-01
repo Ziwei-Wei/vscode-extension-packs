@@ -28,3 +28,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 
 - Non tool enhancements
+
+## [1.0.3]
+
+### Added
+
+- More useful tools
