@@ -3,7 +3,7 @@
   "name": "py-devtools-pack",
   "displayName": "Python Devtools Pack",
   "description": "Extensions to make developing Python as convenient as possible.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "icon.png",
   "repository": {
     "url": "https://github.com/Ziwei-Wei/vscode-extension-packs"
@@ -19,6 +19,8 @@
     "donjayamanne.python-environment-manager",
     "littlefoxteam.vscode-python-test-adapter",
     "ms-pyright.pyright",
-    "ms-python.python"
+    "ms-python.pylint",
+    "ms-python.python",
+    "oderwat.indent-rainbow"
   ]
 }
