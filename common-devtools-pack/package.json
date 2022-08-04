@@ -3,7 +3,7 @@
   "name": "common-devtools-pack",
   "displayName": "Common Devtools Pack",
   "description": "common devtools covering various developers' general need for most domain and language",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "icon": "icon.png",
   "repository": {
 		"url": "https://github.com/Ziwei-Wei/vscode-extension-packs"
@@ -26,6 +26,7 @@
     "foxundermoon.shell-format",
     "mhutchie.git-graph",
     "mintlify.document",
+    "ms-vscode-remote.remote-containers",
     "ms-vscode-remote.remote-ssh",
     "quicktype.quicktype",
     "stkb.rewrap",
