@@ -48,3 +48,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Outline map
+
+## [1.0.7]
+
+### Added
+
+- Editor config
