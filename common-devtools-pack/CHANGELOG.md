@@ -46,3 +46,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Remote Container
+
+## [1.0.6]
+
+### Added
+
+- Source graph
