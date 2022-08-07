@@ -54,3 +54,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Editor config
+
+## [1.0.8]
+
+### Removed
+
+- vscode icons
