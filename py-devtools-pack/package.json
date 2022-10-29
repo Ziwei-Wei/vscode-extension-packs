@@ -3,7 +3,7 @@
   "name": "py-devtools-pack",
   "displayName": "Python Devtools Pack",
   "description": "Extensions to make developing Python as convenient as possible.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "icon": "icon.png",
   "repository": {
     "url": "https://github.com/Ziwei-Wei/vscode-extension-packs"
@@ -20,6 +20,7 @@
     "ms-pyright.pyright",
     "ms-python.pylint",
     "ms-python.python",
-    "ms-toolsai.jupyter"
+    "ms-toolsai.jupyter",
+    "njpwerner.autodocstring"
   ]
 }

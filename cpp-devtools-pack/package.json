@@ -3,7 +3,7 @@
   "name": "cpp-devtools-pack",
   "displayName": "C/C++ Devtools Pack",
   "description": "C/C++ extensions to make developing C/C++ as convenient as possible",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "icon": "icon.png",
   "repository": {
     "url": "https://github.com/Ziwei-Wei/vscode-extension-packs"
@@ -19,7 +19,6 @@
     "franneck94.c-cpp-runner",
     "jeff-hykin.better-cpp-syntax",
     "josetr.cmake-language-support-vscode",
-    "llvm-vs-code-extensions.vscode-clangd",
     "ms-vscode.cmake-tools",
     "ms-vscode.cpptools"
   ]
