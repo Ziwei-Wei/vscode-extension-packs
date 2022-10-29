@@ -3,7 +3,7 @@
   "name": "dev-enhancement-pack",
   "displayName": "Developer Enhancement Pack",
   "description": "Provide enhancement and support for pdf, md, svg, xml, yaml, proto, env, log, toml, shader files and extra life improvement with comments and spell-check.",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "icon": "icon.png",
   "repository": {
     "url": "https://github.com/Ziwei-Wei/vscode-extension-packs"
