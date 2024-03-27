@@ -3,7 +3,7 @@
   "name": "dev-enhancement-pack",
   "displayName": "Developer Enhancement Pack",
   "description": "Provide enhancement and support for pdf, md, svg, xml, yaml, proto, env, log, toml, shader files and extra life improvement with comments and spell-check.",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "icon": "icon.png",
   "repository": {
     "url": "https://github.com/Ziwei-Wei/vscode-extension-packs"
@@ -20,10 +20,7 @@
     "Gerrnperl.outline-map",
     "IBM.output-colorizer",
     "aaron-bond.better-comments",
-    "bierner.markdown-checkbox",
-    "bierner.markdown-emoji",
-    "bierner.markdown-footnotes",
-    "bierner.markdown-preview-github-styles",
+    "bierner.github-markdown-preview",
     "jock.svg",
     "mikestead.dotenv",
     "mutantdino.resourcemonitor",
